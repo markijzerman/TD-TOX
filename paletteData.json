@@ -1,0 +1,31 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "id": "2.1.1",
+                    "name": "flowyFeedback.tox",
+                    "path": "/Shaders_Feedback/flowyFeedback.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.1",
+            "name": "Shaders_Feedback",
+            "path": "/Shaders_Feedback",
+            "type": "directory"
+        },
+        {
+            "children": [],
+            "id": "2.2",
+            "name": "Noise",
+            "path": "/Noise",
+            "type": "directory"
+        }
+    ],
+    "id": "2",
+    "localRoot": "app.userPaletteFolder",
+    "name": "My Components",
+    "palette": "My Components",
+    "path": "app.userPaletteFolder",
+    "type": "directory"
+}
